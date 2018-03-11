@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import { View } from 'react-native';
-import Header from './src/components/header';
-import AlbumList from './src/components/albumList';
+import Header from './src/components/Header';
+import AlbumList from './src/components/AlbumList';
 
 export default class Albums extends Component {
   render() {
