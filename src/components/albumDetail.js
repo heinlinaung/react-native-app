@@ -55,7 +55,7 @@ const styles = {
 	},
 	albumImageStyle : {
 		height : 300,
-		width : 380
+		width : 355
 	}
 }
 
